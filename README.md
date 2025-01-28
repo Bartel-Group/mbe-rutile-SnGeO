@@ -10,7 +10,7 @@ GENERAL INFORMATION
 1. Title of dataset
 Thermodynamic Free Energy Data for Ge/GeO2 Phase Stability
 
-2. Author Information
+3. Author Information
 
 Principal Investigator Contact Information
 
